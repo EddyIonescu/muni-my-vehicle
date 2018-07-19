@@ -2,6 +2,7 @@
   "name": "muni-my-vehicle",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://eddyionescu.com/muni-my-vehicle",
   "dependencies": {
     "axios": "^0.18.0",
     "react": "^16.4.1",
